@@ -1,0 +1,74 @@
+﻿  my magic kingdom game.cpp
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(378,15): warning C4101: 'selectedPet': unreferenced local variable
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(456,47): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(556,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(556,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(568,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(568,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(598,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(598,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(910,85): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(914,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(914,47): warning C4244:         with
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(914,47): warning C4244:         [
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(914,47): warning C4244:             T=unsigned int
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(914,47): warning C4244:         ]
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1133,69): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1133,69): warning C4244:         with
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1133,69): warning C4244:         [
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1133,69): warning C4244:             T=unsigned int
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1133,69): warning C4244:         ]
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1146,74): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1146,74): warning C4244:         with
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1146,74): warning C4244:         [
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1146,74): warning C4244:             T=unsigned int
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1146,74): warning C4244:         ]
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1352,89): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1356,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1356,47): warning C4244:         with
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1356,47): warning C4244:         [
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1356,47): warning C4244:             T=unsigned int
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1356,47): warning C4244:         ]
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1488,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1489,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1615,86): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1615,86): warning C4244:         with
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1615,86): warning C4244:         [
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1615,86): warning C4244:             T=unsigned int
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1615,86): warning C4244:         ]
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1632,85): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1632,85): warning C4244:         with
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1632,85): warning C4244:         [
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1632,85): warning C4244:             T=unsigned int
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1632,85): warning C4244:         ]
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1708,32): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1708,73): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1708,113): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1708,154): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1936,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1937,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(2072,89): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(2072,89): warning C4244:         with
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(2072,89): warning C4244:         [
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(2072,89): warning C4244:             T=unsigned int
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(2072,89): warning C4244:         ]
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(2089,88): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(2089,88): warning C4244:         with
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(2089,88): warning C4244:         [
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(2089,88): warning C4244:             T=unsigned int
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(2089,88): warning C4244:         ]
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(2494,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(2519,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(2522,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(2849,69): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(3009,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(3009,56): warning C4244:         with
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(3009,56): warning C4244:         [
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(3009,56): warning C4244:             T=unsigned int
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(3009,56): warning C4244:         ]
+  Generating code
+  Finished generating code
+  1 of 364 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  my magic kingdom game.vcxproj -> C:\Users\Dell\Desktop\my magic kingdom game\x64\Release\my magic kingdom game.exe

@@ -1,0 +1,21 @@
+﻿  my magic kingdom game.cpp
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(548,11): error C2535: 'pets *Player::getPet(void) const': member function already defined or declared
+      C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(421,11):
+      see declaration of 'Player::getPet'
+  
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(472,47): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(561,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(561,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(573,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(573,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(603,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(603,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1339,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1364,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1367,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1705,69): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1862,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1862,56): warning C4244:         with
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1862,56): warning C4244:         [
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1862,56): warning C4244:             T=unsigned int
+C:\Users\Dell\Desktop\my magic kingdom game\my magic kingdom game.cpp(1862,56): warning C4244:         ]
